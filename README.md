@@ -3,7 +3,14 @@
 ## Descripción
 Generador de memes con Flask. Esta aplicación permite a los usuarios seleccionar imágenes y agregar texto personalizado para crear memes (algo simple).
 
-## Instalación
+## Instalacion proyecto
+Para instalar el proyecto en tu entorno local, asegúrate de clonar el repositorio:
+
+```bash
+git clone https://github.com/ScriptJoss/generador-memes.git
+```
+
+## Instalación dependencias
 Para instalar las dependencias necesarias, asegúrate de tener Python y pip instalados. Luego, ejecuta el siguiente comando en tu terminal:
 
 ```bash
