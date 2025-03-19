@@ -21,8 +21,7 @@ python main.py
 Luego, abre tu navegador y ve a `http://127.0.0.1:5000` para acceder a la aplicación.
 
 ## Captura de Pantalla
-![Captura de pantalla de la aplicación](static/img/generador_memes.jpg)  <!-- Asegúrate de reemplazar esta línea con la ruta de la imagen de captura de pantalla real -->
-
+![Captura de pantalla de la aplicación](static/img/generador_memes.jpg)  
 ## Notas
 - Si encuentras errores en el HTML, es debido a cosas de HTML.
 - La aplicación funciona como se espera 👍🏻.
